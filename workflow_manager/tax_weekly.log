@@ -1,0 +1,135 @@
+RUN_LOG_FILE=/tmp/composio-run-artifacts-fVZI43/run.log
+FDP Tax Accountant — weekly run 2026-09-27T23:46:27.778Z
+  ✓ stripe charges
+  ✓ gumroad sales
+  ✓ airtable products catalogue
+FAIR DINKUM PUBLISHING — WEEKLY ACCOUNTANT
+
+Revenue (7d/all): $0.00  |  Stripe $0.00 (0 paid)  |  Gumroad $0.00 (0)
+GST estimate (1/11, GST-inc): $0.00 — set aside, confirm with accountant
+Fees est: $0.00 (Stripe ~1.75%+30c, Gumroad 10%)
+Profit est (pre-tax, pre-costs): $0.00
+
+BY PRODUCT (Stripe, by descriptor):
+  (no sales yet)
+
+CATALOGUE: Playbook $49 · Solo $29 · Skate $29 · Graffiti $29 · Bundle $45 → full-shelf buyer $136
+  (Airtable Products live rows: 13)
+
+AUDIT FAULTS:
+  ! 2 contact emails bounce (an50mccollum disabled; bretts-books.com bad domain) — suppressed
+  ! Facebook connection EXPIRED — social posts manual until relink
+  ! GATE-2 test purchases outstanding on all 5 checkouts
+  ! EvaluatorAgent ≥85 scores pending ×4; Gumroad listings ×5 draft-only
+
+FIXES:
+  → Suppress bounced addresses from future outreach (CSV flagged)
+  → Run 1 test purchase per checkout (Stripe+Square), then refund
+  → composio link facebook → resume FB launch queue
+  → Attach zips + v2 samples to Gumroad listings
+
+ADVICE + OPTIMISATION:
+  • Revenue $0: expected pre-launch. First dollar = test purchases + Reddit follow-ups (2 live posts need comment duty).
+  • GST set-aside: move 1/11 of every payout to a tax bucket the day it lands.
+  • Bundle ($45, save $13) is the highest-leverage asset — push it day-3 in every channel.
+  • Playbook ($49) now fulfillable: lead with it, upsell bundle at checkout.
+
+General information only — not tax advice. Confirm GST/BAS with your accountant (ato.gov.au).
+  ✓ weekly email to Brett
+  ✓ airtable week log
+{
+ "revenue_c": 0,
+ "gst_c": 0,
+ "profit_c": 0,
+ "emailed": true
+}
+RUN_LOG_FILE=/tmp/composio-run-artifacts-SnBGkk/run.log
+FDP Tax Accountant — weekly run 2026-10-04T22:30:09.379Z
+  ✓ stripe charges
+  ✓ gumroad sales
+  ✓ airtable products catalogue
+FAIR DINKUM PUBLISHING — WEEKLY ACCOUNTANT
+
+Revenue (7d/all): $0.00  |  Stripe $0.00 (0 paid)  |  Gumroad $0.00 (0)
+GST estimate (1/11, GST-inc): $0.00 — set aside, confirm with accountant
+Fees est: $0.00 (Stripe ~1.75%+30c, Gumroad 10%)
+Profit est (pre-tax, pre-costs): $0.00
+
+BY PRODUCT (Stripe, by descriptor):
+  (no sales yet)
+
+CATALOGUE: Playbook $49 · Solo $29 · Skate $29 · Graffiti $29 · Bundle $45 → full-shelf buyer $136
+  (Airtable Products live rows: 40)
+
+AUDIT FAULTS:
+  ! 2 contact emails bounce (an50mccollum disabled; bretts-books.com bad domain) — suppressed
+  ! Facebook connection EXPIRED — social posts manual until relink
+  ! GATE-2 test purchases outstanding on all 5 checkouts
+  ! EvaluatorAgent ≥85 scores pending ×4; Gumroad listings ×5 draft-only
+
+FIXES:
+  → Suppress bounced addresses from future outreach (CSV flagged)
+  → Run 1 test purchase per checkout (Stripe+Square), then refund
+  → composio link facebook → resume FB launch queue
+  → Attach zips + v2 samples to Gumroad listings
+
+ADVICE + OPTIMISATION:
+  • Revenue $0: expected pre-launch. First dollar = test purchases + Reddit follow-ups (2 live posts need comment duty).
+  • GST set-aside: move 1/11 of every payout to a tax bucket the day it lands.
+  • Bundle ($45, save $13) is the highest-leverage asset — push it day-3 in every channel.
+  • Playbook ($49) now fulfillable: lead with it, upsell bundle at checkout.
+
+General information only — not tax advice. Confirm GST/BAS with your accountant (ato.gov.au).
+  ✓ weekly email to Brett
+  ✓ airtable week log
+{
+ "revenue_c": 0,
+ "gst_c": 0,
+ "profit_c": 0,
+ "emailed": true
+}
+RUN_LOG_FILE=/tmp/composio-run-artifacts-2ipekL/run.log
+FDP Tax Accountant — weekly run 2026-10-12T00:30:12.698Z
+  ✗ stripe charges: composio execute STRIPE_LIST_CHARGES --data @/tmp/composio-run-artifacts-2ipekL/execute-data-STRIPE_LIST_CHARGES-adaa590a.json failed with exit code 1
+  ✗ gumroad sales: composio execute GUMROAD_GET_SALES --data @/tmp/composio-run-artifacts-2ipekL/execute-data-GUMROAD_GET_SALES-b39d110a.json failed with exit code 1
+  ✗ airtable products catalogue: composio execute AIRTABLE_LIST_RECORDS --data @/tmp/composio-run-artifacts-2ipekL/execute-data-AIRTABLE_LIST_RECORDS-d13fa3e8.json failed with exit code 1
+FAIR DINKUM PUBLISHING — WEEKLY ACCOUNTANT
+
+Revenue (7d/all): $0.00  |  Stripe $0.00 (0 paid)  |  Gumroad $0.00 (0)
+GST estimate (1/11, GST-inc): $0.00 — set aside, confirm with accountant
+Fees est: $0.00 (Stripe ~1.75%+30c, Gumroad 10%)
+Profit est (pre-tax, pre-costs): $0.00
+
+BY PRODUCT (Stripe, by descriptor):
+  (no sales yet)
+
+CATALOGUE: Playbook $49 · Solo $29 · Skate $29 · Graffiti $29 · Bundle $45 → full-shelf buyer $136
+  (Airtable Products live rows: 5)
+
+AUDIT FAULTS:
+  ! 2 contact emails bounce (an50mccollum disabled; bretts-books.com bad domain) — suppressed
+  ! Facebook connection EXPIRED — social posts manual until relink
+  ! GATE-2 test purchases outstanding on all 5 checkouts
+  ! EvaluatorAgent ≥85 scores pending ×4; Gumroad listings ×5 draft-only
+
+FIXES:
+  → Suppress bounced addresses from future outreach (CSV flagged)
+  → Run 1 test purchase per checkout (Stripe+Square), then refund
+  → composio link facebook → resume FB launch queue
+  → Attach zips + v2 samples to Gumroad listings
+
+ADVICE + OPTIMISATION:
+  • Revenue $0: expected pre-launch. First dollar = test purchases + Reddit follow-ups (2 live posts need comment duty).
+  • GST set-aside: move 1/11 of every payout to a tax bucket the day it lands.
+  • Bundle ($45, save $13) is the highest-leverage asset — push it day-3 in every channel.
+  • Playbook ($49) now fulfillable: lead with it, upsell bundle at checkout.
+
+General information only — not tax advice. Confirm GST/BAS with your accountant (ato.gov.au).
+  ✗ weekly email to Brett: composio execute GMAIL_SEND_EMAIL --data @/tmp/composio-run-artifacts-2ipekL/execute-data-GMAIL_SEND_EMAIL-291cfd14.json failed with exit code 1
+  ✗ airtable week log: composio execute AIRTABLE_CREATE_RECORDS --data @/tmp/composio-run-artifacts-2ipekL/execute-data-AIRTABLE_CREATE_RECORDS-c7651b51.json failed with exit code 1
+{
+ "revenue_c": 0,
+ "gst_c": 0,
+ "profit_c": 0,
+ "emailed": false
+}
